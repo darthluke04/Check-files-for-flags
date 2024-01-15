@@ -1,4 +1,5 @@
-Title: Flag Finder - Streamlining Capture the Flag Challenges
+# Flag Finder
+**"Streamlining Capture the Flag Challenges"**
 
 Description:
 Flag Finder is a powerful tool designed to enhance your experience in the world of cybersecurity games, specifically tailored for the popular Capture the Flag challenges. With the increasing complexity of these games involving numerous files, Flag Finder aims to expedite the process by efficiently searching for flags within your files.
@@ -28,4 +29,6 @@ Key Features:
 
 Whether you're a seasoned cybersecurity professional or a novice looking to enhance your skills, Flag Finder is your go-to solution for efficient flag discovery, enabling you to conquer Capture the Flag challenges with speed and precision. Elevate your gaming experience and stay ahead in the world of cybersecurity competitions with Flag Finder.
 
-![screenshot]([http://url/to/img.png](https://github.com/darthluke04/Check-files-for-flags/blob/main/screenshot.png?raw=true)https://github.com/darthluke04/Check-files-for-flags/blob/main/screenshot.png?raw=true)
+***
+
+![screenshot](https://github.com/darthluke04/Check-files-for-flags/blob/main/screenshot.png?raw=true)
