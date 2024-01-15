@@ -14,8 +14,8 @@ const chars = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 
 const folder = 'example/'; 				//   ["example/"] * Which directory to scan
 const finder = "flag{"; 				//   ["flag{"]    * Beginning of string to scan E.g, flag{
 const finderEnd = "}"; 					//   ["}"]        * End of string to scan E.g, }
-const decryption = true;				// ! [true]       * Decrypts flag if in file (true or false)
-const bruteforceKeys = true;				// ! [true]       * Guesses the key by using brute force if true. WARNING: Takes longer to read if true (true or false).
+const decryption = false;				// ! [false]       * Decrypts flag if in file (true or false)
+const bruteforceKeys = false;				// ! [false]       * Guesses the key by using brute force if true. WARNING: Takes longer to read if true (true or false).
 const includeMax = 50; 					// ! [50]         * Max amount of words read. - WARNING: Takes longer to read if higher
 // Security
 var cryptKey = "myTotallySecretKey";			//   ["Key"]      * The key for decryption. [Same as the one that the owner used to encrypt]
